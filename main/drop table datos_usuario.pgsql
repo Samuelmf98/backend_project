@@ -1,1 +1,1 @@
-drop table datos_usuario
+drop table public.datos_usuario
